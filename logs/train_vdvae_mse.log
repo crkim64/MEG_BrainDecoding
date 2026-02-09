@@ -94,3 +94,7 @@
 2026-02-10 00:05:26 - 💾 Checkpoint saved: ./checkpoints/vdvae/epoch_10.pth
 2026-02-10 00:12:37 - Epoch 11 | Time: 430.6s | Train Loss: 1.010478 | Val Loss: 1.011649 (CLIP: 0.0000, MSE: 1.011649)
 2026-02-10 00:12:37 - 🛑 EarlyStopping counter: 9 out of 10
+2026-02-10 00:19:38 - Epoch 12 | Time: 421.3s | Train Loss: 1.010280 | Val Loss: 1.011809 (CLIP: 0.0000, MSE: 1.011809)
+2026-02-10 00:19:38 - 🛑 EarlyStopping counter: 10 out of 10
+2026-02-10 00:19:38 - 🛑 Early stopping triggered!
+2026-02-10 00:19:38 - 🎉 Training Finished!

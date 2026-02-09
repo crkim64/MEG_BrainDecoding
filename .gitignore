@@ -1,0 +1,48 @@
+# Environment & Settings
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.so
+.vscode/
+.idea/
+.DS_Store
+
+# Data & Large Files
+data/
+*.h5
+*.npy
+*.npz
+*.mat
+*.pkl
+
+# Models & Weights
+checkpoints/
+weights/
+pretrained/
+versatile_diffusion/pretrained/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+
+# Logs & Outputs
+logs/
+results/
+versatile_diffusion/log/
+*.log
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+
+# Project Specific
+.gemini/
+.tmp/
+debug_*.py
+temp/
