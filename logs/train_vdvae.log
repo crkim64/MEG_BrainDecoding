@@ -1,0 +1,10 @@
+2026-02-09 20:51:41 - 
+==================================================
+2026-02-09 20:51:41 - 🚀 Initializing Training (Target: VDVAE Features)
+2026-02-09 20:51:41 -    CLIP Dim (Contrastive): 768
+2026-02-09 20:51:41 -    MSE Dim (VDVAE):        91168
+2026-02-09 20:51:41 -    Lambda Loss:            0.5
+2026-02-09 20:51:41 - ==================================================
+2026-02-09 20:51:41 - 📊 Calculating VDVAE Feature Mean/Std (for generation)...
+2026-02-09 20:56:10 - 📊 Dataset Split -> Train: 63513, Val: 15879
+2026-02-09 20:56:14 - 🚀 Start Training Loop...

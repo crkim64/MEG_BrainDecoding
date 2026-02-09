@@ -1,0 +1,96 @@
+2026-02-09 21:03:08 - 
+==================================================
+2026-02-09 21:03:08 - 🚀 Initializing Training (Target: VDVAE Features)
+2026-02-09 21:03:08 -    MSE Dim (VDVAE):        91168
+2026-02-09 21:03:08 -    Lambda Loss:            0.0 (Pure MSE)
+2026-02-09 21:03:08 - ==================================================
+2026-02-09 21:03:08 - 📊 VDVAE stats found at ./checkpoints/vdvae/vdvae_stats.npz
+2026-02-09 21:03:08 - 📊 Dataset Split -> Train: 63513, Val: 15879
+2026-02-09 21:03:12 - 🚀 Start Training Loop...
+2026-02-09 21:04:29 - 
+==================================================
+2026-02-09 21:04:29 - 🚀 Initializing Training (Target: VDVAE Features)
+2026-02-09 21:04:29 -    MSE Dim (VDVAE):        91168
+2026-02-09 21:04:29 -    Lambda Loss:            0.0 (Pure MSE)
+2026-02-09 21:04:29 - ==================================================
+2026-02-09 21:04:29 - 📊 VDVAE stats found at ./checkpoints/vdvae/vdvae_stats.npz
+2026-02-09 21:04:29 - 📊 Dataset Split -> Train: 63513, Val: 15879
+2026-02-09 21:04:33 - 🚀 Start Training Loop...
+2026-02-09 21:08:24 - 
+==================================================
+2026-02-09 21:08:24 - 🚀 Initializing Training (Target: VDVAE Features)
+2026-02-09 21:08:24 -    MSE Dim (VDVAE):        91168
+2026-02-09 21:08:24 -    Lambda Loss:            0.0 (Pure MSE)
+2026-02-09 21:08:24 - ==================================================
+2026-02-09 21:08:24 - 📊 VDVAE stats found at ./checkpoints/vdvae/vdvae_stats.npz
+2026-02-09 21:08:24 - 📊 Dataset Split -> Train: 63513, Val: 15879
+2026-02-09 21:08:27 - 🚀 Start Training Loop...
+2026-02-09 21:15:16 - Epoch 1 | Time: 409.0s | Train Loss: 0.072197 | Val Loss: 0.072168 (CLIP: 0.0000, MSE: 0.072168)
+2026-02-09 21:15:18 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 21:22:03 - Epoch 2 | Time: 404.8s | Train Loss: 0.072165 | Val Loss: 0.072164 (CLIP: 0.0000, MSE: 0.072164)
+2026-02-09 21:22:07 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 21:28:47 - Epoch 3 | Time: 400.9s | Train Loss: 0.072163 | Val Loss: 0.072162 (CLIP: 0.0000, MSE: 0.072162)
+2026-02-09 21:28:51 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 21:35:49 - Epoch 4 | Time: 417.6s | Train Loss: 0.072161 | Val Loss: 0.072161 (CLIP: 0.0000, MSE: 0.072161)
+2026-02-09 21:35:52 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 21:42:46 - Epoch 5 | Time: 414.4s | Train Loss: 0.072161 | Val Loss: 0.072161 (CLIP: 0.0000, MSE: 0.072161)
+2026-02-09 21:42:50 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 21:49:39 - Epoch 6 | Time: 409.2s | Train Loss: 0.072160 | Val Loss: 0.072161 (CLIP: 0.0000, MSE: 0.072161)
+2026-02-09 21:49:39 - 🛑 EarlyStopping counter: 1 out of 10
+2026-02-09 21:56:34 - Epoch 7 | Time: 414.9s | Train Loss: 0.072158 | Val Loss: 0.072161 (CLIP: 0.0000, MSE: 0.072161)
+2026-02-09 21:56:34 - 🛑 EarlyStopping counter: 2 out of 10
+2026-02-09 22:03:19 - Epoch 8 | Time: 404.6s | Train Loss: 0.072156 | Val Loss: 0.072160 (CLIP: 0.0000, MSE: 0.072160)
+2026-02-09 22:03:22 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 22:10:19 - Epoch 9 | Time: 416.9s | Train Loss: 0.072154 | Val Loss: 0.072161 (CLIP: 0.0000, MSE: 0.072161)
+2026-02-09 22:10:19 - 🛑 EarlyStopping counter: 1 out of 10
+2026-02-09 22:17:13 - Epoch 10 | Time: 414.0s | Train Loss: 0.072150 | Val Loss: 0.072162 (CLIP: 0.0000, MSE: 0.072162)
+2026-02-09 22:17:13 - 🛑 EarlyStopping counter: 2 out of 10
+2026-02-09 22:17:16 - 💾 Checkpoint saved: ./checkpoints/vdvae/epoch_10.pth
+2026-02-09 22:24:08 - Epoch 11 | Time: 412.7s | Train Loss: 0.072145 | Val Loss: 0.072164 (CLIP: 0.0000, MSE: 0.072164)
+2026-02-09 22:24:08 - 🛑 EarlyStopping counter: 3 out of 10
+2026-02-09 22:31:04 - Epoch 12 | Time: 415.8s | Train Loss: 0.072138 | Val Loss: 0.072166 (CLIP: 0.0000, MSE: 0.072166)
+2026-02-09 22:31:04 - 🛑 EarlyStopping counter: 4 out of 10
+2026-02-09 22:36:49 - 
+==================================================
+2026-02-09 22:36:49 - 🚀 Initializing Training (Target: VDVAE Features)
+2026-02-09 22:36:49 -    MSE Dim (VDVAE):        91168
+2026-02-09 22:36:49 -    Lambda Loss:            0.0 (Pure MSE)
+2026-02-09 22:36:49 - ==================================================
+2026-02-09 22:36:49 - 📊 VDVAE stats found at ./checkpoints/vdvae/vdvae_stats.npz
+2026-02-09 22:36:49 - 📊 Dataset Split -> Train: 63513, Val: 15879
+2026-02-09 22:36:52 - 🚀 Start Training Loop...
+2026-02-09 22:43:56 - Epoch 1 | Time: 423.4s | Train Loss: 1.011236 | Val Loss: 1.011163 (CLIP: 0.0000, MSE: 1.011163)
+2026-02-09 22:44:01 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 22:51:09 - Epoch 2 | Time: 428.2s | Train Loss: 1.011198 | Val Loss: 1.011161 (CLIP: 0.0000, MSE: 1.011161)
+2026-02-09 22:53:58 - 
+==================================================
+2026-02-09 22:53:58 - 🚀 Initializing Training (Target: VDVAE Features)
+2026-02-09 22:53:58 -    MSE Dim (VDVAE):        91168
+2026-02-09 22:53:58 -    Lambda Loss:            0.0 (Pure MSE)
+2026-02-09 22:53:58 - ==================================================
+2026-02-09 22:53:58 - 📊 VDVAE stats found at ./checkpoints/vdvae/vdvae_stats.npz
+2026-02-09 22:53:58 - 📊 Dataset Split -> Train: 63513, Val: 15879
+2026-02-09 22:54:02 - 🚀 Start Training Loop...
+2026-02-09 23:01:03 - Epoch 1 | Time: 421.0s | Train Loss: 1.011239 | Val Loss: 1.011162 (CLIP: 0.0000, MSE: 1.011162)
+2026-02-09 23:01:06 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 23:08:16 - Epoch 2 | Time: 430.1s | Train Loss: 1.011199 | Val Loss: 1.011160 (CLIP: 0.0000, MSE: 1.011160)
+2026-02-09 23:08:19 - ✅ Validation loss decreased. Saving best model to ./checkpoints/vdvae/best_model.pth
+2026-02-09 23:15:25 - Epoch 3 | Time: 426.7s | Train Loss: 1.011189 | Val Loss: 1.011162 (CLIP: 0.0000, MSE: 1.011162)
+2026-02-09 23:15:25 - 🛑 EarlyStopping counter: 1 out of 10
+2026-02-09 23:22:29 - Epoch 4 | Time: 423.8s | Train Loss: 1.011163 | Val Loss: 1.011178 (CLIP: 0.0000, MSE: 1.011178)
+2026-02-09 23:22:29 - 🛑 EarlyStopping counter: 2 out of 10
+2026-02-09 23:29:40 - Epoch 5 | Time: 430.6s | Train Loss: 1.011109 | Val Loss: 1.011209 (CLIP: 0.0000, MSE: 1.011209)
+2026-02-09 23:29:40 - 🛑 EarlyStopping counter: 3 out of 10
+2026-02-09 23:36:57 - Epoch 6 | Time: 437.3s | Train Loss: 1.011039 | Val Loss: 1.011250 (CLIP: 0.0000, MSE: 1.011250)
+2026-02-09 23:36:57 - 🛑 EarlyStopping counter: 4 out of 10
+2026-02-09 23:44:05 - Epoch 7 | Time: 428.4s | Train Loss: 1.010960 | Val Loss: 1.011311 (CLIP: 0.0000, MSE: 1.011311)
+2026-02-09 23:44:05 - 🛑 EarlyStopping counter: 5 out of 10
+2026-02-09 23:51:17 - Epoch 8 | Time: 431.4s | Train Loss: 1.010870 | Val Loss: 1.011382 (CLIP: 0.0000, MSE: 1.011382)
+2026-02-09 23:51:17 - 🛑 EarlyStopping counter: 6 out of 10
+2026-02-09 23:58:21 - Epoch 9 | Time: 424.7s | Train Loss: 1.010765 | Val Loss: 1.011434 (CLIP: 0.0000, MSE: 1.011434)
+2026-02-09 23:58:21 - 🛑 EarlyStopping counter: 7 out of 10
+2026-02-10 00:05:23 - Epoch 10 | Time: 421.9s | Train Loss: 1.010633 | Val Loss: 1.011541 (CLIP: 0.0000, MSE: 1.011541)
+2026-02-10 00:05:23 - 🛑 EarlyStopping counter: 8 out of 10
+2026-02-10 00:05:26 - 💾 Checkpoint saved: ./checkpoints/vdvae/epoch_10.pth
+2026-02-10 00:12:37 - Epoch 11 | Time: 430.6s | Train Loss: 1.010478 | Val Loss: 1.011649 (CLIP: 0.0000, MSE: 1.011649)
+2026-02-10 00:12:37 - 🛑 EarlyStopping counter: 9 out of 10
